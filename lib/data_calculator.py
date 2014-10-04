@@ -11,6 +11,8 @@ class Observation:
     #  @filter(None, sequence): filter out elements evaluating to False
     def __init__(self, file):
         # create 'log/' directory if doesn't exist
+        if not os.path.exists('log/'):
+          os.makedirs('log/')
 
         # store input file
         self.file = file
