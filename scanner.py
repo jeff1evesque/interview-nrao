@@ -20,7 +20,7 @@
 ## import
 #    Validator: class used to validate input data
 #    sys.path : search path for modules
-import sys
+import sys, os
 sys.path.append('log/')
 sys.path.append('lib/')
 from data_validator import Validator
@@ -36,6 +36,10 @@ if len(sys.argv) > 1 and validator.is_file():
     observation = Observation(sys.argv[1])
     observation.calculation()
     observation_result = observation.get_result()
+
+    # create 'log/' directory if doesn't exist
+    if not os.path.exists('log/'):
+      os.makedirs('log/', 0755)
 
     # save 'observation_result' to 'observation.log'
     with open('log/observation.log', 'w') as f:
