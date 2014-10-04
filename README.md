@@ -10,7 +10,7 @@ Elevation: sometimes called *altitude*, is the distance of an object appears to 
 
 - http://astrosun2.astro.cornell.edu/academics/courses/astro201/alt_az.htm
 
-Flux density:  is a non-[SI](http://en.wikipedia.org/wiki/SI) unit (jansky, or Jy) of spectral [flux density](http://en.wikipedia.org/wiki/Flux_density).  One jansky is equivalent to  10^(-26) [watts](http://en.wikipedia.org/wiki/Watt) per [square metre](http://en.wikipedia.org/wiki/Square_metre) per [hertz](http://en.wikipedia.org/wiki/Hertz).  It was created for and is still most frequently used in reference to electromagnetic energy, especially in the context of radio astronomy.  The brightest [astronomical radio sources](http://en.wikipedia.org/wiki/Astronomical_radio_source) have flux densities of the order of one to one hundred janskys.  Note: The Sun at 10 GHz has 4,000,000 Jansky (JY).
+Flux density:  is a non-[SI](http://en.wikipedia.org/wiki/SI) unit (jansky, or Jy) of spectral [flux density](http://en.wikipedia.org/wiki/Flux_density).  One jansky is equivalent to  10^(-26) [watts](http://en.wikipedia.org/wiki/Watt) per [square metre](http://en.wikipedia.org/wiki/Square_metre) per [hertz](http://en.wikipedia.org/wiki/Hertz).  It was created for and is still most frequently used in reference to electromagnetic energy, especially in the context of radio astronomy.  The brightest [astronomical radio sources](http://en.wikipedia.org/wiki/Astronomical_radio_source) have flux densities of the order of one to one hundred janskys.
 
 **Note:** The Sun *at 10 GHz* has *4,000,000* Jansky (JY).
 
