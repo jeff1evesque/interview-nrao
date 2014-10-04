@@ -38,7 +38,8 @@ if len(sys.argv) > 1 and validator.is_file():
     observation_result = observation.get_result()
 
     # create 'log/' directory if doesn't exist
-    os.makedirs('log/', 0755)
+    if not os.path.exists('log/'):
+      os.makedirs('log/', 0755)
 
     # save 'observation_result' to 'observation.log'
     with open('log/observation.log', 'w') as f:
