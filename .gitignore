@@ -1,4 +1,5 @@
 # Ignore the following directories
+log/
 
 # Ignore the following files
 lib/*.pyc
