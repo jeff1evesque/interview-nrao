@@ -4,6 +4,12 @@ I had an interview with the [NRAO](http://www.nrao.edu/) (National Radio Astrono
 
 ###Definition
 
+Azimuth: is the angular distance along the horizon to the location of the object.  By convention, *azimuth* is measured from north towards the east along the horizon.
+
+Elevation: sometimes called *altitude*, is the distance of an object appears to be above the horizon.  The angle is measured up from the closest point on the horizon.
+
+- http://astrosun2.astro.cornell.edu/academics/courses/astro201/alt_az.htm
+
 ###Overview
 
 ##Configuration
