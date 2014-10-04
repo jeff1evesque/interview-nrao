@@ -11,8 +11,6 @@ interview-nrao
 
 ###GIT
 
-####GIT Submodule
-
 ###File Permission
 Change the file permission for the entire project by issuing the command:
 
