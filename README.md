@@ -62,3 +62,12 @@ To calculate the amount of time spent performing an astronomical observation:
 cd /var/www/html/interview-nrao
 python scanner.py input.txt
 ```
+
+**Note:** `scanner.py` requires a valid input text file to proceed with calculations.
+
+A successful execution of the above script, produces a log-file, containing the overall *simulated* observation time:
+
+```
+cd /var/www/html/interview-nrao/log
+pico observation.log
+```
