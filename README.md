@@ -10,6 +10,10 @@ Elevation: sometimes called *altitude*, is the distance of an object appears to 
 
 - http://astrosun2.astro.cornell.edu/academics/courses/astro201/alt_az.htm
 
+Flux density:  is a non-SI unit (jansky, or Jy) of spectral flux density.  One jansky is equivalent to  10−26 watts per square meter per hertz.  It was created for and is still most frequently used in referenceto electromagnetic energy, especially in the context of radio astronomy.The brightest astronomical radio sources have flux densities of the order of one to one hundred janskys.Note: The Sun at 10 GHz has 4,000,000 Jansky (JY).
+
+- http://en.wikipedia.org/wiki/Jansky
+
 ###Overview
 
 ##Configuration
