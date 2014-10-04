@@ -71,3 +71,4 @@ A successful execution of the above script, produces a log-file, containing the 
 cd /var/www/html/interview-nrao/log
 pico observation.log
 ```
+**Note:** each line within both the `input.txt`, and `observation.log` represents an observation scan, and the last line represents the overall observation.
