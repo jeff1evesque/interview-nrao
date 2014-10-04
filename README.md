@@ -5,8 +5,6 @@ interview-nrao
 
 ###Overview
 
-##Installation
-
 ##Configuration
 
 ###GIT
