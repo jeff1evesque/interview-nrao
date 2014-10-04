@@ -1,5 +1,6 @@
 interview-nrao
 =====================
+I had an interview with the [NRAO](http://www.nrao.edu/) (National Radio Astronomy Observatory) for a *Software Engineer II* position, and was given a coding exercise to calculate the amount of time spent performing astronomical observations. This exercise was written in [Python](http://en.wikipedia.org/wiki/Python_(programming_language)), and emphasized to be [object oriented](http://en.wikipedia.org/wiki/Object-oriented_programming).
 
 ###Definition
 
