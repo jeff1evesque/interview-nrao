@@ -10,6 +10,8 @@ class Observation:
     #  @line.strip(): removes '\n' from the 'line'
     #  @filter(None, sequence): filter out elements evaluating to False
     def __init__(self, file):
+        # create 'log/' directory if doesn't exist
+
         # store input file
         self.file = file
 
