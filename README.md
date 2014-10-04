@@ -63,4 +63,4 @@ cd /var/www/html/interview-nrao
 python scanner.py input.txt
 ```
 
-**Note:** `scanner.py` requires an input text file.  If no input file is provided, or one of an incorrect format is provided, the script will not continue, and print an error message, respectively.
+**Note:** `scanner.py` requires a valid input text file to proceed with calculations.
