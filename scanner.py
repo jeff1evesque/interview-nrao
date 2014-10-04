@@ -20,7 +20,7 @@
 ## import
 #    Validator: class used to validate input data
 #    sys.path : search path for modules
-import sys
+import sys, os
 sys.path.append('log/')
 sys.path.append('lib/')
 from data_validator import Validator
