@@ -19,7 +19,7 @@ Flux density:  is a non-[SI](http://en.wikipedia.org/wiki/SI) unit (jansky, or J
 ###Overview
 This exercise simulates the motion of telescope(s) as it observes its sources.  Using *input* data, `scanner.py` calculates the length of time taken performing various *scans* during it's observations.
 
-Three important files were provided during this exercise, now located within the `given/` subdirectory:
+Three important files were provided during exercise, located within the `given/` subdirectory:
 
 - `coding-project.pdf`: defines, and provides description on the given exercise
 - `input.txt`         : given input data
