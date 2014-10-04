@@ -44,3 +44,5 @@ sudo chown -R jeffrey:sudo interview-nrao
 ```
 
 **Note:** change 'jeffrey' to the user account YOU use.
+
+##Execution
