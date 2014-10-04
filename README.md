@@ -64,3 +64,5 @@ python scanner.py input.txt
 ```
 
 **Note:** `scanner.py` requires a valid input text file to proceed with calculations.
+
+After a successful execution of `scanner.py`, `log/output.log` is created, containing the overall *simulated* observation time. 
