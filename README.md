@@ -46,3 +46,5 @@ sudo chown -R jeffrey:sudo interview-nrao
 **Note:** change 'jeffrey' to the user account YOU use.
 
 ##Execution
+
+This repository / exercise contains `scanner.py`, which is responsible for running the necessary *validation*, and *calculation* scripts, contained within the `lib/` subdirectory.
